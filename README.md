@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://cdn.discordapp.com/attachments/1021714812356542468/1035279186841055272/2022-10-27_22-45-00.mp4))
+[![Watch the video](https://cdn.discordapp.com/attachments/1021714812356542468/1035279186841055272/2022-10-27_22-45-00.mp4)]([https://youtu.be/vt5fpE0bzSY](https://cdn.discordapp.com/attachments/1021714812356542468/1035279186841055272/2022-10-27_22-45-00.mp4))
 
 This is not the finished version of the app. Too much progress to be made...
 
