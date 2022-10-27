@@ -77,7 +77,7 @@ This is not the finished version of the app. Too much progress to be made...
 
 ### Installation
 
-Click on the releases and there is a tutorial. Or <a href="#soon">click here</a>
+Click on the releases and there is a tutorial. Or <a href="https://github.com/Akame1981/MP3-Downloader/releases/tag/Portable">click here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
