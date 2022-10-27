@@ -51,10 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<video width="320" height="240" controls>
-  <source src="https://cdn.discordapp.com/attachments/1021714812356542468/1035279186841055272/2022-10-27_22-45-00.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://cdn.discordapp.com/attachments/1021714812356542468/1035279186841055272/2022-10-27_22-45-00.mp4))
 
 This is not the finished version of the app. Too much progress to be made...
 
